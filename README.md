@@ -1,2 +1,2 @@
 # IBM-DS
-IBM - Data Science
+Data Science Capstone
